@@ -10,7 +10,7 @@ Enjoy and Explore my interactive study guide
 
 ## Interactive demeology
 
-Explore my interactive demeology [here](Advancements of the Telephone.html).
+Explore my interactive demeology [here](AdvancementsoftheTelephone.html).
 
 # Speculative Fiction
 
